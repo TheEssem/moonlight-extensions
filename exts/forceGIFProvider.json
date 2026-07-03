@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/TheEssem/my-moonlight-extensions.git",
+  "commit": "e42654f2cce2c3caa6513f8d4b7b4f7ab246345a",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/forceGIFProvider.asar"
+}
